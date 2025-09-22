@@ -12,6 +12,10 @@ Below is a list of available items, each with a link to a more detailed descript
 
 [![Main Enclosure Panel](/Main_Enclosure_Panel/Thumb.png)](/Main_Enclosure_Panel/)
 
+## Main Enclosure Door
+
+[![Main Enclosure Door](/Main_Enclosure_Door/Thumb.png)](/Main_Enclosure_Door/)
+
 ## PCB Stand-Off
 
 [![PCB Stand-Off](/PCB_Standoff/Thumb.png)](/PCB_Standoff/)
